@@ -1,1 +1,6 @@
-{}
+[
+  {"name":"John",
+    "type":"first"},
+  {"name":"Smith",
+    "type":"last"}
+]
