@@ -1,8 +1,11 @@
 [
   {"name":"John",
-    "type":"first"},
+    "type":"first",
+    "idx": 0},
   {"name":"Smith",
-    "type":"last"},
+    "type":"last",
+    "idx":2},
   {"name":"M.",
-  "type": "middle"}
+  "type": "middle",
+  "idx":1}
 ]
