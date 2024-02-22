@@ -2,5 +2,7 @@
   {"name":"John",
     "type":"first"},
   {"name":"Smith",
-    "type":"last"}
+    "type":"last"},
+  {"name":"M.",
+  "type": "middle"}
 ]
